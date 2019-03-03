@@ -3,4 +3,4 @@
 
 # get-childitem ==> dir
 
-Invoke-Command -ComputerName 192.168.205.127 -ScriptBlock { Get-netipaddress } -credential Student
+Invoke-Command -ComputerName 192.168.205.127 -ScriptBlock { Get-netipaddress -AddressFamily ipv4 } -credential Student
