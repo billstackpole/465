@@ -1,0 +1,10 @@
+﻿# to create creds, see this page:
+#  https://stackoverflow.com/questions/6239647/using-powershell-credentials-without-being-prompted-for-a-password
+
+CIDR notation management in powershell
+https://www.itprotoday.com/mobile-management-and-security/pok-mon-go-sharpens-its-security-game-building-security-operations
+
+Also see this reddit post re: determining whether an IP resides within a particular CIDR defined address space:
+https://www.reddit.com/r/PowerShell/comments/8u35jz/script_to_match_list_of_ips_to_list_of_subnets/
+
+(sidenote - /r/powershell has lots of good discussions!)
